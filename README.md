@@ -65,3 +65,7 @@ Click on Load unpacked and select the sync-notes-extension directory.
    6. Use the Extension
 Pin the extension to your Chrome toolbar for easy access.
 Click the extension icon to open the popup and start saving notes.
+
+It is the updated version of the one i uploaded on july:
+![image](https://github.com/user-attachments/assets/d2119fe4-740f-4c02-b83e-b013aa862424)
+
