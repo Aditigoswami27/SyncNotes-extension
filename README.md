@@ -64,6 +64,10 @@ Enable Developer mode.
 Click on Load unpacked and select the sync-notes-extension directory.
    6. Use the Extension
 Pin the extension to your Chrome toolbar for easy access.
+The updates on SyncNotes are made with the help of my team with github profiles as : @Shraddha290, @s_jashwant_21 ,@Shobhit-20-04
+You can see thier work on : https://www.linkedin.com/in/shraddha-khachane-7143a7262/  ,
+https://www.linkedin.com/in/shobhit-agrawal-b79279252/   ,
+https://www.linkedin.com/in/shaan-jashwant-47ba1a257/
 Click the extension icon to open the popup and start saving notes.
 
 It is the updated version of the one i uploaded on july:
