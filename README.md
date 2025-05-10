@@ -1,6 +1,8 @@
 # SyncNotes-extension
 Sync Notes is a Chrome extension designed to help users efficiently take, manage, and organize notes directly from their browser while visiting various websites. The extension allows users to save URLs, add categorized notes, prioritize important notes, and view all saved notes from a dedicated page. It enhances productivity by providing a seamless experience for note-taking while browsing.
 
+# Demo video(previous version) : https://www.linkedin.com/posts/aditi-goswami-850076261_syncnotes-chromeextension-webdevelopment-activity-7222294131354533888-wa69?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEBCdDwB5h5W7jRSFBqY63d51zJULJbK29U
+
 Features:
 1. Save Notes with Website Links:
 Save notes along with the URL of the current website.
