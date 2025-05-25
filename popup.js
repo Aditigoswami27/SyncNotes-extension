@@ -14,7 +14,7 @@ $(document).ready(function() {
         const newElement = document.createElement(tag);
         newElement.appendChild(selectedText);
     
-        range.insertNode(newElement);  // Insert the newly formatted element
+        range.insertNode(newElement);  // Insert the newly formatted value
     }
     
     // Function to apply ordered or unordered list by wrapping text in <ol> or <ul>
